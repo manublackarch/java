@@ -1,2 +1,4 @@
 # java
-java notes and projects 
+java detailed notes
+exercises java code
+exercise java projects 
